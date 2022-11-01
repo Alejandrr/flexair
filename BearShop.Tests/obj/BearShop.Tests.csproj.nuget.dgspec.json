@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gachi\\flexair\\BearShop.Tests\\BearShop.Tests.csproj": {}
+    "D:\\Лаб 1\\flexair\\BearShop.Tests\\BearShop.Tests.csproj": {}
   },
   "projects": {
-    "D:\\gachi\\flexair\\BearShop.Tests\\BearShop.Tests.csproj": {
+    "D:\\Лаб 1\\flexair\\BearShop.Tests\\BearShop.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gachi\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
+        "projectUniqueName": "D:\\Лаб 1\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
         "projectName": "BearShop.Tests",
-        "projectPath": "D:\\gachi\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
-        "packagesPath": "C:\\Users\\андрей\\.nuget\\packages\\",
-        "outputPath": "D:\\gachi\\flexair\\BearShop.Tests\\obj\\",
+        "projectPath": "D:\\Лаб 1\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
+        "packagesPath": "C:\\Users\\omelk\\.nuget\\packages\\",
+        "outputPath": "D:\\Лаб 1\\flexair\\BearShop.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\omelk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\gachi\\flexair\\BeerShop\\BeerShop.csproj": {
-                "projectPath": "D:\\gachi\\flexair\\BeerShop\\BeerShop.csproj"
+              "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj": {
+                "projectPath": "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj"
               }
             }
           }
@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[2.4.1, )"
             },
+            "xunit.analyzers": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "xunit.runner.visualstudio": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -71,8 +75,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,15 +84,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\gachi\\flexair\\BeerShop\\BeerShop.csproj": {
+    "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\gachi\\flexair\\BeerShop\\BeerShop.csproj",
+        "projectUniqueName": "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj",
         "projectName": "BeerShop",
-        "projectPath": "D:\\gachi\\flexair\\BeerShop\\BeerShop.csproj",
+        "projectPath": "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
