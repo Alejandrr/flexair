@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/BPYLJGQFeQhb9dCV/7Qj5WYgXO2lqPd0zwE4U+y4Bx2EmLe8FYeWX2drqvDww932ADi34MX7k7y1b9TOWLoKQ==",
+  "dgSpecHash": "SKhgm5tAnUMkxVe81gRduEpVudQIcNoqVmC1U5t5qPL/f0pr8Cw/QaOwEX2ohw08Y9jkfHfe6smnS4hQ+nxxZQ==",
   "success": true,
-  "projectFilePath": "D:\\Лаб 1\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
+  "projectFilePath": "D:\\e\\Навчання\\МРПЗ\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omelk\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\omelk\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

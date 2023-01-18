@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Лаб 1\\flexair\\BearShop.Tests\\BearShop.Tests.csproj": {}
+    "D:\\e\\Навчання\\МРПЗ\\flexair\\BearShop.Tests\\BearShop.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Лаб 1\\flexair\\BearShop.Tests\\BearShop.Tests.csproj": {
+    "D:\\e\\Навчання\\МРПЗ\\flexair\\BearShop.Tests\\BearShop.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Лаб 1\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
+        "projectUniqueName": "D:\\e\\Навчання\\МРПЗ\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
         "projectName": "BearShop.Tests",
-        "projectPath": "D:\\Лаб 1\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
+        "projectPath": "D:\\e\\Навчання\\МРПЗ\\flexair\\BearShop.Tests\\BearShop.Tests.csproj",
         "packagesPath": "C:\\Users\\omelk\\.nuget\\packages\\",
-        "outputPath": "D:\\Лаб 1\\flexair\\BearShop.Tests\\obj\\",
+        "outputPath": "D:\\e\\Навчання\\МРПЗ\\flexair\\BearShop.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omelk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj": {
-                "projectPath": "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj"
+              "D:\\e\\Навчання\\МРПЗ\\flexair\\BeerShop\\BeerShop.csproj": {
+                "projectPath": "D:\\e\\Навчання\\МРПЗ\\flexair\\BeerShop\\BeerShop.csproj"
               }
             }
           }
@@ -75,7 +75,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,15 +85,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj": {
+    "D:\\e\\Навчання\\МРПЗ\\flexair\\BeerShop\\BeerShop.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj",
+        "projectUniqueName": "D:\\e\\Навчання\\МРПЗ\\flexair\\BeerShop\\BeerShop.csproj",
         "projectName": "BeerShop",
-        "projectPath": "D:\\Лаб 1\\flexair\\BeerShop\\BeerShop.csproj",
+        "projectPath": "D:\\e\\Навчання\\МРПЗ\\flexair\\BeerShop\\BeerShop.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
